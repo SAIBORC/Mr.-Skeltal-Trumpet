@@ -18,9 +18,10 @@ fix the left click now left click to half doot and hold left click play the full
 thanks to bilm for share this :3
 
 
-here the code for it to make a trust :3
+here the code .lua for it to make a trust :3
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
 SWEP.PrintName = "Mr. Skeltal Trumpet"
 SWEP.Author = "You"
 SWEP.Instructions = "Left-click once to doot, hold left-click to doot continuously."
@@ -133,4 +134,5 @@ function SWEP:GetViewModelPosition(pos, ang)
     pos = pos + ang:Forward() * 8 + ang:Right() * -3 + ang:Up() * -19
     return pos, ang
 end
+
 ----------------------------------------------------------------------------------------------------------------------------------------
