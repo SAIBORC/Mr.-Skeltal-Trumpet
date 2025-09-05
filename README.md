@@ -7,6 +7,8 @@ here the mod i download it with out fix https://steamcommunity.com/sharedfiles/f
 
 here link the fix one on link of mega because i can't even put on steam workshop i have limited account i didn't pay the 5$ thing that why :3
 
+-(BUG)- addon / when you add the file on addons file just remove the (Mr.{space} ) on start of (Mr. Skeltal Trumpet) and well remove the error creater
+
 https://mega.nz/file/nIQHCLCY#frXM6Zov2EfV2gvhN5V9wHm1X-MYyeLERQuI9rLtEyQ
 
 here what i fix on it
