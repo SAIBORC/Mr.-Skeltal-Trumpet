@@ -1,25 +1,27 @@
-# Mr.-Skeltal-Trumpet
-here fix of the trumpet mod on gmod
+Mr. Skeltal Trumpet
 
-here the guy where i get mod from https://steamcommunity.com/id/iblamecarson
+Here's a fix for the trumpet mod on GMod.
 
-here the mod i download it with out fix https://steamcommunity.com/sharedfiles/filedetails/?id=813746555
+Here's the guy I got the mod from:
+https://steamcommunity.com/id/iblamecarson
 
-here link the fix one on link of mega because i can't even put on steam workshop i have limited account i didn't pay the 5$ thing that why :3
+Here's the mod I downloaded without the fix:
+https://steamcommunity.com/sharedfiles/filedetails/?id=813746555
 
--(BUG)- addon / when you add the file on addons file just remove the (Mr.{space} ) on start of (Mr. Skeltal Trumpet) and well remove the error creater sholld be [Skeltal Trumpet]
+Here's the link to the fixed version on Mega, because I can't upload it to the Steam Workshop — I have a limited account and haven't paid the $5 thing, so that's why :3
+
+(BUG) Addon: When you add the file to the addons folder, just remove the "Mr. " (including the space) from the start of "Mr. Skeltal Trumpet" — that will remove the error. The creator should be [Skeltal Trumpet].
 
 https://mega.nz/file/nIQHCLCY#frXM6Zov2EfV2gvhN5V9wHm1X-MYyeLERQuI9rLtEyQ
 
-here what i fix on it
+Here's what I fixed:
 
-the model for first-person now showed and the right place
+    The first-person model now shows up and is in the right place
 
-the model for third-person now showed in right place but i can't fix the hand im too lazy :3
+    The third-person model now shows up in the right place, but I couldn't fix the hand — I'm too lazy :3
 
-fix the left click now left click to half doot and hold left click play the fullone you can spam like old meme :3
+    Fixed left-click: now a single left-click does a half doot, and holding left-click plays the full one. You can spam it like the old meme :3
 
-thanks to bilm for share this :3
+Thanks to bilm for sharing this :3
 
-here the code .lua for it to make a trust :3
-
+Here's the .lua code for it to prove it's trustworthy :3
